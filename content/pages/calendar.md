@@ -4,41 +4,465 @@ title: Calendar
 uid: 8aab2a86-7ebb-d4c0-9856-bf6fa01a4537
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | The Projective Plane |  |
-| 2 | Curves in the Projective Plane |  |
-| 3 | Rational Points on Conics |  |
-| 4 | Geometry of Cubic Curves | Homework 1 due |
-| 5 | Weierstrass Normal Form |  |
-| 6 | Explicit Formulas for the Group Law |  |
-| 7 | Points of Order Two and Three | Homework 2 due |
-| 8 | The Discriminant  {{< br >}}  {{< br >}}Points of Finite Order have Integer Coordinates - Part 1 |  |
-| 9 | Points of Finite Order have Integer Coordinates - Part 2 |  |
-| 10 | Points of Finite Order have Integer Coordinates - Part 3  {{< br >}}  {{< br >}}The Nagell-Lutz Theorem | Homework 3 due |
-| 11 | Real and Complex Points on Cubics |  |
-| 12 | Heights and Descent |  |
-| 13 | Height of P + P\_0 | Homework 4 due |
-| 14 | Height of 2P |  |
-| 15 | A Useful Homomorphism - Part 1 | Homework 5 due |
-| 16 | A Useful Homomorphism - Part 2 |  |
-| 17 | Mordell's Theorem - Part 1 |  |
-| 18 | Mordell's Theorem - Part 2  {{< br >}}  {{< br >}}Examples - Part 1 | Homework 6 due |
-| 19 | Examples - Part 2 |  |
-| 20 | Examples - Part 3 |  |
-| 21 | Singular Cubics |  |
-| 22 | Rational Points over Finite Fields |  |
-| 23 | Gauss's Theorem - Part 1 |  |
-| 24 | Gauss's Theorem - Part 2 | Homework 7 due |
-| 25 | Points of Finite Order Revisited |  |
-| 26 | Factorization using Elliptic Curves - Part 1 |  |
-| 27 | Factorization using Elliptic Curves - Part 2 | Homework 8 due |
-| 28 | Integer Points on Cubics  {{< br >}}  {{< br >}}Taxicabs - Part 1 |  |
-| 29 | Taxicabs - Part 2  {{< br >}}  {{< br >}}Thue's Theorem - Part 1 |  |
-| 30 | Thue's Theorem - Part 2 | Homework 9 due |
-| 31 | Construction of an Auxiliary Polynomial |  |
-| 32 | The Auxiliary Polynomial is Small |  |
-| 33 | The Auxiliary Polynomial Does Not Vanish |  |
-| 34 | Proof of the DAT  {{< br >}}  {{< br >}}Further Developments | Homework 10 due |
-| 35 | Congruent Numbers and Elliptic Curves I: Koblitz - Part 1 |  |
-| 36 | Congruent Numbers and Elliptic Curves II: Koblitz - Part 2 |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Projective Plane
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Curves in the Projective Plane
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Rational Points on Conics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Geometry of Cubic Curves
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Weierstrass Normal Form
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Explicit Formulas for the Group Law
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Points of Order Two and Three
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Discriminant  
+  
+Points of Finite Order have Integer Coordinates - Part 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Points of Finite Order have Integer Coordinates - Part 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Points of Finite Order have Integer Coordinates - Part 3  
+  
+The Nagell-Lutz Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Real and Complex Points on Cubics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Heights and Descent
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Height of P + P\_0
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Height of 2P
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+A Useful Homomorphism - Part 1
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+A Useful Homomorphism - Part 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Mordell's Theorem - Part 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Mordell's Theorem - Part 2  
+  
+Examples - Part 1
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Examples - Part 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Examples - Part 3
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Singular Cubics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Rational Points over Finite Fields
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Gauss's Theorem - Part 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Gauss's Theorem - Part 2
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Points of Finite Order Revisited
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Factorization using Elliptic Curves - Part 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Factorization using Elliptic Curves - Part 2
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Integer Points on Cubics  
+  
+Taxicabs - Part 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Taxicabs - Part 2  
+  
+Thue's Theorem - Part 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Thue's Theorem - Part 2
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Construction of an Auxiliary Polynomial
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+The Auxiliary Polynomial is Small
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+The Auxiliary Polynomial Does Not Vanish
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Proof of the DAT  
+  
+Further Developments
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Congruent Numbers and Elliptic Curves I: Koblitz - Part 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Congruent Numbers and Elliptic Curves II: Koblitz - Part 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
